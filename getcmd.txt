@@ -1,1 +1,1 @@
-tdf:/var/www/test-folder/test-file.php
+tdd:/var/www/html/test-folder
